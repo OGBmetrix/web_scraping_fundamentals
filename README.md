@@ -1,2 +1,6 @@
 # web_scraping_fundamentals
-This project extracts, analyzes, and visualizes stock and revenue data using pandas, yfinance, and Matplotlib, showcasing data cleaning, web scraping, and dashboard creation for financial insights.
+This project focuses on extracting, analyzing, and visualizing stock and revenue data using Python. The notebook demonstrates core data science techniques, including data collection from APIs and web scraping, data cleaning, and building insightful visualizations. Using libraries such as pandas, yfinance, and BeautifulSoup, the project retrieves historical stock data and revenue information for companies like Tesla and GameStop.
+
+The workflow begins with extracting stock data using yfinance, followed by scraping revenue data from web sources. The data is then processed and structured into dataframes for analysis. A custom visualization function is implemented using Matplotlib to generate clear and informative graphs that compare stock prices with company revenue over time.
+
+This project highlights essential skills for aspiring data analysts, including data extraction, transformation, and visualization. It also emphasizes the importance of combining multiple data sources to derive meaningful business insights. By completing this notebook, users gain hands-on experience in building a simple data dashboard and understanding how financial trends can be interpreted through data visualization.
